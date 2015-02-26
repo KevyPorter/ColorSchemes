@@ -1,5 +1,5 @@
 # color-schemes
-A collection of color schemes I use for IntelliJ. All schemes are designed to be used with Java, you have been warned.
+A collection of color schemes I use for IntelliJ. All schemes are designed to be used with Java, you have been warned. (They aren't that fancy.)
 
 ### Installation
 * Mac OS X: ```~/Library/Preferences/IdeaIC*/colors/```
