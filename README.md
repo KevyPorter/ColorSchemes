@@ -3,6 +3,7 @@ A collection of color schemes I use for IntelliJ. All schemes are designed to be
 
 ### Installation
 Mac OS X: ```~/Library/Preferences/IdeaIC*/colors/```
+
 Linux: ```~/.IdeaIC*/colors/```
 
 ### Screenshots
