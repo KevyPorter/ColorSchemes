@@ -4,7 +4,7 @@ A collection of color schemes I use for IntelliJ. All schemes are designed to be
 ### Installation
 * Mac OS X: ```~/Library/Preferences/IdeaIC*/colors/```
 * Linux: ```~/.IdeaIC*/colors/```
-* Windows: ```Good luck.```
+* Windows: ```~/.IdeaIC*/config/colors/```
 
 ### Screenshots
 * [Late Night](http://i.imgur.com/0hcngHk.png): Used for understanding code structure.
